@@ -84,8 +84,21 @@ This repository contains all resources related to our research work on deploying
 
 ---
 
-## 🔗 Directory Structure
+## 📥 Resources
 
+All training logs, metrics, models, and deployment code are shared under this repository for academic use and reproducibility.
 
-This repo is for the resources that has been used in the research of "Improving Accurecy: ESP32 disasteer detection using TinyML"
-dataset - https://www.kaggle.com/datasets/samik2005/aider-dataset-partitioned-256485full
+> For queries or collaboration, contact: **samik.workofficial@gmail.com**
+
+---
+
+## ⭐ Acknowledgements
+
+Special thanks to Dr. Jyoti Yadav (NSUT) for mentorship and guidance, and to the creators of the [AIDER Dataset](https://ieee-dataport.org/documents/aider-aerial-image-dataset-emergency-response-applications) for open access data support.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
