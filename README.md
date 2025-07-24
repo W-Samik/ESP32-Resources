@@ -95,10 +95,3 @@ All training logs, metrics, models, and deployment code are shared under this re
 ## ⭐ Acknowledgements
 
 Special thanks to Dr. Jyoti Yadav (NSUT) for mentorship and guidance, and to the creators of the [AIDER Dataset](https://ieee-dataport.org/documents/aider-aerial-image-dataset-emergency-response-applications) for open access data support.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
